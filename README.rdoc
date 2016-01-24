@@ -1,3 +1,4 @@
-###Ruby on Rails Blog
 
-> I am learning Rails by building a blog. So use this code at your own risks. 
+-==Ruby on Rails Blog
+
+-> I am learning Rails by building a blog. So use this code at your own risks. 
